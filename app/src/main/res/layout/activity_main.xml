@@ -20,6 +20,11 @@
         android:layout_height="50dp"
         android:layout_marginBottom="10dp"/>
 
+    <Spinner
+        android:id="@+id/pilih_method"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"></Spinner>
+
     <TextView
         android:id="@+id/countResponse"
         android:layout_width="wrap_content"

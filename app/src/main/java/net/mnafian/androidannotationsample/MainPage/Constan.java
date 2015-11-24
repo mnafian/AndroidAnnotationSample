@@ -5,6 +5,9 @@ package net.mnafian.androidannotationsample.MainPage;
  */
 public class Constan {
 
+    //url data
+    public static final String URL_MAIN = "http://www.mnafian.net/";
+
     //property data
     public static final String GET_STATUS = "status";
     public static final String GET_POSTNUM = "count_total";
